@@ -1,5 +1,5 @@
-# GEOJSON-DATA
-Repository for GEOJSON DATA
+# GeoJSON Data
+Repository for GeoJSON Data
 
 Parking_Space.geojson: Individual locations of street parking spaces in downtown W-S
 
